@@ -1,2 +1,2 @@
-# churn_ml_forecasting
+# Customer Churn Forecasting With Machine Learning
 Predicting customer churn for subscription services using machine learning.
